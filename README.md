@@ -1,10 +1,7 @@
 
-Rikeza development tree
-
-Rikeza is a Hybrid PoW/PoS-based cryptocurrency.
-
-Development process
+Rikeza
 ===========================
+
 
 SPECIFICATIONS
 
