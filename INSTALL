@@ -1,0 +1,9 @@
+Building Rikeza
+
+See doc/readme-qt.rst for instructions on building Rikeza QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Rikeza.
+
+See doc/build-*.txt for instructions on building rikezad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Rikeza.
